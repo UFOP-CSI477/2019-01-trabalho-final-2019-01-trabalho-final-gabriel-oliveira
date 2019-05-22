@@ -18,12 +18,12 @@ O objetivo deste documento é apresentar uma proposta para o trabalho a ser dese
 
   Este projeto terá as seguintes funcionalidades:
 
-  *Informações do Produto
-  *Busca por Produto
-  *Cadastro do Cliente
-  *Avaliação dos Clientes
-  *Carrinho de Compras
-  *Histórico de Compras de um Cliente
+  * Informações do Produto
+  * Busca por Produto
+  * Cadastro do Cliente
+  * Avaliação dos Produtos
+  * Carrinho de Compras
+  * Histórico de Compras do Cliente
 
 
 <!-- Apresentar restrições de funcionalidades e de escopo. -->
