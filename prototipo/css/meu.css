@@ -1,0 +1,22 @@
+body {
+  background-color: lightgrey;
+}
+div .col-md-3{
+  background-color: white;
+  border: 1px solid grey;
+}
+
+.barra {
+  background-color: #03085B;
+  font-family: tahoma;
+}
+
+.foot {
+  background-color: #03088B;
+  font-family: tahoma;
+}
+
+.logotipo1{
+  display:none;
+  margin-left: auto;
+}

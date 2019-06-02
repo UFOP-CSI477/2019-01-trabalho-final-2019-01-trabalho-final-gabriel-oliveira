@@ -18,12 +18,12 @@ O objetivo deste documento é apresentar uma proposta para o trabalho a ser dese
 
   Este projeto terá as seguintes funcionalidades:
 
-  *Informações do Produto
-  *Busca por Produto
-  *Cadastro do Cliente
-  *Avaliação dos Clientes
-  *Carrinho de Compras
-  *Histórico de Compras de um Cliente
+  * Informações do Produto
+  * Busca por Produto
+  * Cadastro do Cliente
+  * Avaliação dos Produtos
+  * Carrinho de Compras
+  * Histórico de Compras de um Cliente
 
 
 <!-- Apresentar restrições de funcionalidades e de escopo. -->
@@ -33,7 +33,7 @@ O objetivo deste documento é apresentar uma proposta para o trabalho a ser dese
 
 <!-- Construir alguns protótipos para a aplicação, disponibilizá-los no Github e descrever o que foi considerado. //-->
 ### 4. Protótipo
-  Em construção.
+  O protótipo do site está disponível na pasta "prototipo".
 
 ### 5. Referências
-Referências podem ser incluídas, caso necessário. Utilize o padrão ABNT.
+ Em desenvolvimento.
