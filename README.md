@@ -1,4 +1,4 @@
-# **CSI477-2019-01 - Proposta de Trabalho Final**
+## **CSI477-2019-01 - Proposta de Trabalho Final**
 ## *Gabriel Oliveira Silva*
 
 --------------
@@ -11,7 +11,7 @@ O objetivo deste documento é apresentar uma proposta para o trabalho a ser dese
 <!-- Apresentar o tema. -->
 ### 1. Tema
 
-  O tema escolhido para o trabalho final é o desenvolvimento de um site para vendas de jogos em mídia física e acessórios.
+  O tema escolhido para o trabalho final é o desenvolvimento de um site para vendas de jogos em mídia física.
 
 <!-- Descrever e limitar o escopo da aplicação. -->
 ### 2. Escopo
@@ -29,11 +29,15 @@ O objetivo deste documento é apresentar uma proposta para o trabalho a ser dese
 <!-- Apresentar restrições de funcionalidades e de escopo. -->
 ### 3. Restrições
 
-  Neste trabalho não serão implementados métodos de pagamento nem notas fiscais.
+  Neste trabalho não serão implementados métodos de pagamento nem entrega.
 
 <!-- Construir alguns protótipos para a aplicação, disponibilizá-los no Github e descrever o que foi considerado. //-->
 ### 4. Protótipo
   O protótipo do site está disponível na pasta "prototipo".
 
 ### 5. Referências
- Em desenvolvimento.
+ * Bootstarp
+ * Laravel
+ * PHP 7.3.1
+ * W3SCHOOLS
+ * JQuery
