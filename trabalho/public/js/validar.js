@@ -1,0 +1,2 @@
+$("#formAvaliar").validate();
+$("#formProd").validate();

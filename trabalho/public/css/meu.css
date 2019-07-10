@@ -1,0 +1,105 @@
+body {
+  max-width: 80%;
+  margin: auto;
+  background-image: url("/img/painel4.jpg");
+}
+div .col-md-3{
+  background-color: white;
+  border: 1px solid grey;
+}
+
+.produto_show{
+  border: 3px solid blue;
+  border-radius: 10px;
+  background-color: white;
+  padding: 15px;
+  font-size: 130%;
+}
+
+.barra {
+  background-color: #03085B;
+  font-family: tahoma;
+  color: white;
+  font-size: 105%;
+}
+
+.foot {
+  background-color: #03088B;
+  font-family: tahoma;
+}
+
+.logotipo1{
+  display:none;
+  margin-left: auto;
+}
+.pesquisa_resultado{
+  background-color: white;
+  position: absolute;
+  border-left: 2px solid blue;
+  border-right: 2px solid blue;
+  top: 2px;
+  left: 175px;
+}
+
+.pesquisa_1{
+  border-bottom: 2px solid blue;
+  border-radius: 2px;
+  position: relative;
+}
+.pesquisa_0{
+  border-top: 2px solid blue;
+  border-left: 2px solid blue;
+  border-right: 2px solid blue;
+  border-radius: 2px;
+  position: relative;
+  background-color: white;
+  padding: 20px;
+}
+.pesquisa_menu{
+  background-color: white;
+  border: 2px solid blue;
+  border-radius: 2px;
+  padding: 21px;
+  left: 10px;
+}
+
+.avaliacao{
+  padding: 10px;
+  border: 2px solid grey;
+  border-radius: 5px;
+}
+
+a {
+  color: black;
+}
+a:link
+{
+  text-decoration:none;
+}
+.a-pesquisa{
+  display: inline-block;
+  margin: 10px 20px;
+  padding: 10px;
+}
+.a-pesquisa:hover
+{
+  color: black;
+  background-color: lightgrey;
+}
+.valor
+{
+  color: green;
+}
+.avaliar
+{
+  color: black;
+}
+.info-pesquisa {
+  padding: 5px;
+  border-top: 1px solid grey;
+  font-style: normal;
+  color: black;
+}
+.img-pesquisa {
+  padding-bottom: 5px;
+}
