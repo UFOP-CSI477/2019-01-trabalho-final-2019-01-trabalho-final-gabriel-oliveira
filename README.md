@@ -33,11 +33,7 @@ O objetivo deste documento é apresentar uma proposta para o trabalho a ser dese
 
 <!-- Construir alguns protótipos para a aplicação, disponibilizá-los no Github e descrever o que foi considerado. //-->
 ### 4. Protótipo
+
   O protótipo do site está disponível na pasta "prototipo".
 
 ### 5. Referências
- * Bootstarp
- * Laravel
- * PHP 7.3.1
- * W3SCHOOLS
- * JQuery
